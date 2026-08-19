@@ -8,6 +8,19 @@ This repository contains simple programming examples written in
 > "Practice makes programming easier!"
 
 ---
+## 🐍 Python Programs
+
+| Program | Description |
+|---|---|
+| [Hello World](Python/hello.py) | Prints Hello World |
+| [Calculator](Python/calculator.py) | Performs basic arithmetic |
+| [Palindrome](Python/palindrome.py) | Checks whether a word is a palindrome |
+
+### Python Example
+
+```python
+print("Hello, World!")
+
 ## ☕ Java Programs
 
 | Program | Description |
@@ -31,15 +44,3 @@ This repository contains simple programming examples written in
 
 ---
 
-## 🐍 Python Programs
-
-| Program | Description |
-|---|---|
-| [Hello World](Python/hello.py) | Prints Hello World |
-| [Calculator](Python/calculator.py) | Performs basic arithmetic |
-| [Palindrome](Python/palindrome.py) | Checks whether a word is a palindrome |
-
-### Python Example
-
-```python
-print("Hello, World!")
