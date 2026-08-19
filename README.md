@@ -8,6 +8,20 @@ This repository contains simple programming examples written in
 > "Practice makes programming easier!"
 
 ---
+## ☕ Java Programs
+
+| Program | Description |
+|---|---|
+| [Hello World](Java/HelloWorld.java) | Prints Hello World |
+| [Calculator](Java/Calculator.java) | Performs basic arithmetic |
+| [Palindrome](Java/Palindrome.java) | Checks whether a word is a palindrome |
+## 🌐 JavaScript Programs
+
+| Program | Description |
+|---|---|
+| [Hello World](JavaScript/hello.js) | Prints Hello World |
+| [Calculator](JavaScript/calculator.js) | Performs basic arithmetic |
+| [Palindrome](JavaScript/palindrome.js) | Checks whether a word is a palindrome |
 
 ## 📚 Languages
 
