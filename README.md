@@ -1,33 +1,21 @@
 # 💻 Programming Snippets Library
 
-Welcome to my **Programming Snippets Library**!
+Welcome to my **Programming Snippets Library**! 🚀
 
-This repository contains simple programming examples written in
+This repository contains simple programs written in
 `Python`, `Java`, and `JavaScript`.
 
-> "Practice makes programming easier!"
+> 💡 "Practice makes programming easier!"
 
 ---
-## 🐍 Python Programs
 
-| Program | Description |
-|---|---|
-| [Hello World](Python/hello.py) | Prints Hello World |
-| [Calculator](Python/calculator.py) | Performs basic arithmetic |
-| [Palindrome](Python/palindrome.py) | Checks whether a word is a palindrome |
+## 📚 Programming Languages
 
-### Python Example
+- 🐍 Python
+- ☕ Java
+- 🌐 JavaScript
 
-```python
-print("Hello, World!")
-
-## ☕ Java Programs
-
-| Program | Description |
-|---|---|
-| [Hello World](Java/HelloWorld.java) | Prints Hello World |
-| [Calculator](Java/Calculator.java) | Performs basic arithmetic |
-| [Palindrome](Java/Palindrome.java) | Checks whether a word is a palindrome |
+---
 ## 🌐 JavaScript Programs
 
 | Program | Description |
@@ -35,12 +23,21 @@ print("Hello, World!")
 | [Hello World](JavaScript/hello.js) | Prints Hello World |
 | [Calculator](JavaScript/calculator.js) | Performs basic arithmetic |
 | [Palindrome](JavaScript/palindrome.js) | Checks whether a word is a palindrome |
+## ☕ Java Programs
 
-## 📚 Languages
+| Program | Description |
+|---|---|
+| [Hello World](Java/HelloWorld.java) | Prints Hello World |
+| [Calculator](Java/Calculator.java) | Performs basic arithmetic |
+| [Palindrome](Java/Palindrome.java) | Checks whether a word is a palindrome |
 
-- 🐍 Python
-- ☕ Java
-- 🌐 JavaScript
+## 🐍 Python Programs
 
----
+<details>
+<summary>Click here to view Python Programs</summary>
+
+### 1. Hello World
+
+```python
+print("Hello, World!")
 
